@@ -19,3 +19,10 @@ Generally, a time-series chart represents the aggregate value (mean, median, sum
 ![Season plot](visuals/seasonplot_aqi.png)
 
 They are useful for visualising seasonality in the climate data, especially when we have data for multiple years.
+
+## Calendar Heatmaps
+`Calendar Heatmap.ipynb` has the script to produce season plots like this
+
+![Calendar Heatmap](visuals/calendarheatmap.png)
+
+They are useful for visualising daily data (AQI, Temperatures etc) as in a calendar year. Helps in detecting seasonality (weekly, monthly etc)
