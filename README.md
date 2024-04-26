@@ -26,3 +26,11 @@ They are useful for visualising seasonality in the climate data, especially when
 ![Calendar Heatmap](visuals/calendarheatmap.png)
 
 They are useful for visualising daily data (AQI, Temperatures etc) as in a calendar year. Helps in detecting seasonality (weekly, monthly etc)
+
+## PollutionStripes
+
+`Pollution Stripes.ipynb` has the script to produce stripes like this
+
+![Pollution Stripes](visuals/pollution-stripes.png)
+
+They are inspired from [Climate Stripes](https://showyourstripes.info/s)
